@@ -1,0 +1,94 @@
+#st{
+    color: rgb(13, 39, 39);
+    text-decoration: none;
+}
+
+#st:hover{
+    color: rgb(255, 153, 0);
+}
+
+#mia1{
+     background-color: rgb(124, 196, 17) ;
+}
+
+#mia2{
+    background-color: rgb(241, 241, 242);
+}
+
+#mia3{
+    color: rgb(255, 153, 0);
+    text-decoration: none;
+}
+
+#mia4{
+    color: rgb(183, 189, 189);
+    text-decoration: none;
+}
+
+#mia4:hover{
+    color: rgb(0, 153, 254);
+}
+
+#mia5{
+    color: rgb(183, 189, 189);
+    text-decoration: none;
+}
+
+#mia5:hover{
+    color: rgb(255, 153, 0);
+}
+
+#mia6{
+    color: rgb(183, 189, 189);
+    text-decoration: none;
+}
+
+#mia6:hover{
+    color: rgb(196, 142, 44);
+}
+
+#mia7{
+    color: rgb(183, 189, 189);
+    text-decoration: none;
+}
+
+#mia7:hover{
+    color: rgb(255, 153, 0);
+}
+
+#mia8{
+    background-color: rgb(255, 255, 255);    
+}
+
+#mia9{
+    background-color: rgb(255, 153, 0);    
+}
+
+#ancor{
+    text-decoration: none;
+}
+
+#disp{
+    border: 2px solid rgb(255, 153, 0);
+    background-color: rgb(255, 153, 0);
+    border-radius: 100%;
+    width: 25px;
+    height: 25px;        
+}
+
+#adjust {
+    border: 1px solid black;
+    width: 5px;
+    height: 50px;
+}
+
+#remo{
+    font-size: 20px;
+    color: rgb(255, 153, 0);
+}
+
+#remo:hover{
+    font-size: 20px;
+    background-color: rgb(252, 219, 189);
+}
+
